@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "userName": "Denis",
+      "password": "123456",
+      "email": "denis.kiselev@agregator.com",
+      "midname": "Denis",
+      "lastname": "Kiselev",
+      "age": "19",
+      "emailLogin": "denis.kiselev",
+      "serisEmail": "@agregator.com"
+    },
+    {
+      "id": 3,
+      "userName": "Andrew",
+      "password": "123456sd",
+      "email": "andrew.knutov@yandex.com",
+      "midname": "Andrew",
+      "lastname": "Knutov",
+      "age": "18",
+      "emailLogin": "andrew.knutov",
+      "serisEmail": "@yandex.com"
+    }
+  ],
+  "sobities": [
+    {
+      "id": 1,
+      "namesob": "1 событие",
+      "opisaniesob": "Пробное",
+      "datasob": "2021-05-11",
+      "servissob": "@gmail.com"
+    },
+    {
+      "namesob": "Второе событие",
+      "opisaniesob": "тоже проба",
+      "datasob": "2021-04-28",
+      "servissob": "@gmail.com",
+      "id": 2
+    }
+  ]
+}
